@@ -13,5 +13,5 @@ I’m a passionate full-stack developer specializing in modern web applications,
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 
-![Taadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalihuAbdulsalamIsah&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihuAbdulsalamIsah&layout=compact&theme=tokyonight)
+![Taadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=taadi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taadi&layout=compact&theme=tokyonight)
