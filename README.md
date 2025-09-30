@@ -49,9 +49,9 @@ Here are some projects I’ve been working on (more coming soon):
 ## 🌐 Connect With Me  
 
 - 💼 **Company:** [Taadi Tech](#)  
-- 🌍 **Portfolio:** _Coming soon_  
-- 📧 **Email:** _[your email here]_  
-- 💬 **LinkedIn:** _[your LinkedIn profile link]_  
+- 🌍 **Portfolio:**   
+- 📧 **Email:** _[info@taadi.net]_  
+- 💬 **LinkedIn:** __  
 
 ---
 ✨ *Building technology that empowers businesses and people – one project at a time.*  
