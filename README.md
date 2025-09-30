@@ -32,8 +32,9 @@ At **Taadi Tech**, I help businesses grow online through custom websites, apps, 
 Here are some projects I’ve been working on (more coming soon):  
 
 - 🛒 **[Sochic Fashion Store](https://sochicng.com/)** → Modern e-commerce site for a fashion brand  
-- 📸 **[Sleek Imaging](#)** → Photography business portfolio site  
-- 🚚 **Man & Van Booking System** → WordPress booking system with custom date/time logic  
+- 📸 **[Sleek Imaging]()** → Photography business portfolio site  
+- 📸 **[Sleek Imaging](https://sleekimagingfilms.co.uk/)** → Photography business portfolio site  
+- 🚚 **[Man & Van Booking System](https://sleekassuredremovals.co.uk/)** → WordPress booking system with custom date/time logic  
 - 🔧 **Custom WPForms Plugins** → Tailored booking and pricing solutions for clients  
 
 ---
